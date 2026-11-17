@@ -1,0 +1,226 @@
+{
+  "water_types": [
+    {
+      "name": "水幕",
+      "description": "形成薄水膜/雾幕，可承载影像与灯光，偏沉浸式视觉界面。"
+    },
+    {
+      "name": "高喷",
+      "description": "高而直的粗壮主水柱，作为全场视觉中心与尺度锚点。"
+    },
+    {
+      "name": "彩虹贯日",
+      "description": "双侧抛物线水柱在中间交汇，形成拱门/彩虹式大跨度轮廓。"
+    },
+    {
+      "name": "辅喷",
+      "description": "在主喷两侧或周围辅助构图，增强高度、节奏和对称感。"
+    },
+    {
+      "name": "雪松",
+      "description": "多股竖向水柱叠加细碎水雾，形成树冠式层次。"
+    },
+    {
+      "name": "一维横摇",
+      "description": "喷头在同一平面内往复摆动，形成连续横向水扇。"
+    },
+    {
+      "name": "一维圆摇",
+      "description": "喷头绕轴/沿圆环运动，形成有纵深的立体水幕。"
+    },
+    {
+      "name": "千手观音（一维）",
+      "description": "成排水柱按序展开，像层层手臂/花瓣向外铺开。"
+    },
+    {
+      "name": "蒸蒸日上",
+      "description": "中央水柱群密集上冲，强调上升、爆发与庆典感。"
+    },
+    {
+      "name": "外喷花篮",
+      "description": "水流由中心向外弯曲喷出，形成花篮/花冠式开口。"
+    },
+    {
+      "name": "跑泉",
+      "description": "各组水柱依次起落，用时间差形成“奔跑”的线性动势。"
+    },
+    {
+      "name": "礼花绽放",
+      "description": "中心强喷配合四周放射水柱，像礼花炸开。"
+    },
+    {
+      "name": "孔雀开屏",
+      "description": "多个扇形水幕并排展开，羽毛感来自重复的弧线节奏。"
+    }
+  ],
+  "items": [
+    {
+      "file": "01_水幕_日间水雾幕.gif",
+      "title": "日间水雾幕",
+      "type": "水幕",
+      "match": "近似替换",
+      "note": "薄雾/水膜形成投影面，适合做入口或广场氛围。",
+      "source": "http://www.jinlanhz.com/articles/ghsmdy.html",
+      "w": 408,
+      "h": 230,
+      "frames": 12,
+      "size_kb": 849
+    },
+    {
+      "file": "01b_水幕_夜间水幕投影.gif",
+      "title": "夜间水幕投影",
+      "type": "水幕",
+      "match": "近似替换",
+      "note": "用动态投影而非纯水膜，视觉更现代。",
+      "source": "http://www.jinlanhz.com/articles/xgttsf.html",
+      "w": 408,
+      "h": 230,
+      "frames": 12,
+      "size_kb": 652
+    },
+    {
+      "file": "03_彩虹贯日_双拱彩虹弧.gif",
+      "title": "双拱彩虹水门",
+      "type": "彩虹贯日",
+      "match": "精准替换",
+      "note": "双侧水柱在中央交汇，保留原页最关键的拱门轮廓。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 400,
+      "h": 230,
+      "frames": 4,
+      "size_kb": 131
+    },
+    {
+      "file": "02_高喷.gif",
+      "title": "高喷 / 辅喷组合",
+      "type": "高喷",
+      "match": "精准替换",
+      "note": "主水柱高耸，两侧配辅喷，构图接近原页。",
+      "source": "http://www.jinlanhz.com/articles/tzptpq.html",
+      "w": 408,
+      "h": 230,
+      "frames": 12,
+      "size_kb": 375
+    },
+    {
+      "file": "04_辅喷.gif",
+      "title": "高喷 / 辅喷组合",
+      "type": "辅喷",
+      "match": "精准替换",
+      "note": "同一段素材同时包含主喷和两侧辅喷，可直接复用。",
+      "source": "http://www.jinlanhz.com/articles/tzptpq.html",
+      "w": 408,
+      "h": 230,
+      "frames": 12,
+      "size_kb": 375
+    },
+    {
+      "file": "05_雪松.gif",
+      "title": "雪松式喷泉",
+      "type": "雪松",
+      "match": "近似替换",
+      "note": "多股竖向喷射叠加细雾，形成针叶树冠般的层次。",
+      "source": "http://www.jinlanhz.com/articles/tzptpq.html",
+      "w": 408,
+      "h": 230,
+      "frames": 9,
+      "size_kb": 411
+    },
+    {
+      "file": "06_一维横摇.gif",
+      "title": "随风拂柳（一维横摇）",
+      "type": "一维横摇",
+      "match": "精准替换",
+      "note": "水姿左右摆动、轻盈连续，适合替换原页的横摇示意。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 408,
+      "h": 230,
+      "frames": 20,
+      "size_kb": 943
+    },
+    {
+      "file": "07_一维圆摇.gif",
+      "title": "万众一心（环形水型）",
+      "type": "一维圆摇",
+      "match": "近似替换",
+      "note": "圆形阵列向心展开，可表达圆摇的对称构图。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 408,
+      "h": 230,
+      "frames": 24,
+      "size_kb": 953
+    },
+    {
+      "file": "08_千手观音.gif",
+      "title": "千手观音",
+      "type": "千手观音",
+      "match": "精准替换",
+      "note": "层层展开的放射状水姿，动态连贯。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 400,
+      "h": 230,
+      "frames": 27,
+      "size_kb": 986
+    },
+    {
+      "file": "09_蒸蒸日上.gif",
+      "title": "上升水柱群",
+      "type": "蒸蒸日上",
+      "match": "近似替换",
+      "note": "中央水柱群向上爆发，氛围热烈。",
+      "source": "https://giphy.com/gifs/europa-park-water-show-QWMqX9wmLACyE2uOmy",
+      "w": 480,
+      "h": 480,
+      "frames": 26,
+      "size_kb": 2698
+    },
+    {
+      "file": "10_外喷花篮.gif",
+      "title": "百变花型（外喷花篮）",
+      "type": "外喷花篮",
+      "match": "近似替换",
+      "note": "环形喷头向外成圈绽放，接近花篮的开口轮廓。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 408,
+      "h": 230,
+      "frames": 14,
+      "size_kb": 804
+    },
+    {
+      "file": "11_跑泉.gif",
+      "title": "连续跑动水柱",
+      "type": "跑泉",
+      "match": "近似替换",
+      "note": "多组水柱按节奏依次喷起，表现“跑动”感。",
+      "source": "https://giphy.com/gifs/lasvegas-bellagio-fountains-eYldGI7du67j90mfJv",
+      "w": 356,
+      "h": 200,
+      "frames": 44,
+      "size_kb": 820
+    },
+    {
+      "file": "12_礼花绽放.gif",
+      "title": "爆炸/礼花喷泉",
+      "type": "礼花绽放",
+      "match": "精准替换",
+      "note": "中心爆发、四周散射，和水型语义高度一致。",
+      "source": "http://www.jinlanhz.com/articles/tzptpq.html",
+      "w": 408,
+      "h": 230,
+      "frames": 15,
+      "size_kb": 747
+    },
+    {
+      "file": "13_孔雀开屏.gif",
+      "title": "孔雀开屏",
+      "type": "孔雀开屏",
+      "match": "精准替换",
+      "note": "连续扇形水幕层层打开，像尾羽展开。",
+      "source": "http://www.jinlanhz.com/articles/cqpqsx.html",
+      "w": 408,
+      "h": 230,
+      "frames": 24,
+      "size_kb": 639
+    }
+  ]
+}
